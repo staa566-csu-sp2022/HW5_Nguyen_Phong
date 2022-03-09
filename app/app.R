@@ -17,10 +17,6 @@ if (!file.exists("data")) {
   drive_download("https://drive.google.com/uc?export=download&id=1OWR7_5kjKMc60dEFR6xC-5459pW6eflE", path = "./data/PREC.nc")
 }
 
-var.maxt <- tidync("data/MAXT.nc")
-var.mint <- tidync("data/MINT.nc")
-var.prec <- tidync("data/PREC.nc")
-
 source("map-data.R")
 
 #######################################################################################################
