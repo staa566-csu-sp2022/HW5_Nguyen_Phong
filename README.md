@@ -1,1 +1,1 @@
-# Download repo (zipped folder), extract and execute shiny::runApp("app") in console of project folder to launch Shiny App.
+# Download repo (zipped folder), extract and execute shiny::runApp("app") in console of project folder to launch Shiny App
