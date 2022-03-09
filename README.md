@@ -1,1 +1,1 @@
-# HW5_Nguyen_Phong
+# Download repo (zipped folder), extract and execute shiny::runApp("app") in console of project folder to launch Shiny App
