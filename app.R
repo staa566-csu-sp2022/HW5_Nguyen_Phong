@@ -233,4 +233,4 @@ server <- function(input, output, session) {
   })
 }
 
-shinyApp(htmlTemplate("../app/template.html"), server, enableBookmarking = "url")
+shinyApp(htmlTemplate("template.html"), server, enableBookmarking = "url")
